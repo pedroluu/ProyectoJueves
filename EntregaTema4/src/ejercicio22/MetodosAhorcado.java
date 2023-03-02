@@ -12,22 +12,7 @@ public class MetodosAhorcado {
 		arrayPalabras[3]="Eladio Carrion";
 		int random;
 		random = (int) (Math.random() * 4);
-//		switch (random) {
-//		case 1:
-//			arrayPalabras[0];
-//			break;
-//		case 2:
-//			arrayPalabras[1];
-//			break;
-//		case 3:
-//			arrayPalabras[2];
-//			break;
-//		case 4:
-//			arrayPalabras[3];
-//			break;
-//
-//		default:
-//			break;
+
 		
 
 		// Hago un array de letras para contar las letras de la palabra y mediante un
